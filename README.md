@@ -1,0 +1,1 @@
+# A simple counter on javascript with closure
